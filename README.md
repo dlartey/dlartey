@@ -1,10 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=dlartey&style=for-the-badge)
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Daniel</h1>
+<h2 align="left">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h2>
 
 <h3 align="left">About Me</h3>
-✔ I am Master's Computer Science finalist & Software Engineer <br>
+✔ I'm a final year Computer Science Student & Software Engineer <br>
 ✔ I’m currently learning about Deep Learning & Quantitative Finance <br>
-✔ I’m looking to collaborate with any Open - Source Quantitative Finance projects <br>
 ✔ My final year project compared various ways of generating random numbers on a blockchain (on-chain & off-chain)  & benchmarking and analysing results in terms of speed, security & scalability. <br>
 
 <div align="center">
@@ -31,4 +30,3 @@
 <h3>GitHub stats</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=dlartey&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dlartey&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="dlartey"/>
-
